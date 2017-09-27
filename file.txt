@@ -1,3 +1,4 @@
 Hello, world!
 changes in the file by dmitrybranch
 git commit
+new line by Yarik
