@@ -1,4 +1,10 @@
 Hello, world!
+<<<<<<< HEAD
 git commit
 add second change in the file by dmitrybranch
 
+=======
+changes in the file by dmitrybranch
+git commit
+new line by Yarik
+>>>>>>> 9d96d429e98125977cb85247102a49dee3e0eb56
